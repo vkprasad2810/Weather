@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Weather</string>
+    <string name="get_accurate_weather_data">Get accurate weather data!</string>
+    <string name="whatever_your_plans_and_wherever_you_aro_stay_one_step_ahead_with_the_weather_app">Whatever your plans, and wherever you aro, stay one step ahead with the Weather App</string>
+    <string name="get_started">Get started</string>
+    <string name="title_activity_weather_home_page">WeatherHomePage</string>
+
+</resources>
